@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,16 +7,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <h1>Welcome to Fullstack Development - I</h1>
+          <h3>React JS Programming Week09 Lab Exercise</h3>
+          <h5>100875122</h5>
+          <h5>Carl Wright</h5>
+          <p>
+            <b>George Brown College, Toronto, ON</b>
+          </p>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
